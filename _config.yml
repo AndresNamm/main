@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayma
 title: [Andres Namm]
 show_downloads: ["false"]
+baseurl                  : "/main" 
