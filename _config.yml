@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "Andres Namm"
+show_downloads: ["false"]
+baseurl                  : "/main" 
